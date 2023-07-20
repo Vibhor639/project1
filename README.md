@@ -1,8 +1,6 @@
 # project1
 
-The code you provided is a simple chatbot that can handle basic user interactions, provide weather information, translate text, evaluate mathematical expressions, and respond to certain specific queries about Java and C++ concepts. 
-
-
+The code is a simple chatbot that can handle basic user interactions, provide weather information, translate text, evaluate mathematical expressions, and respond to certain specific queries about Java and C++ concepts. 
 
 
 
